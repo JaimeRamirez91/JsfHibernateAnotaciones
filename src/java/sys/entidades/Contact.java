@@ -5,7 +5,10 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
  
-
+/*
+teoria de relaciones
+http://www.tacs-utn.com.ar/Home/apuntes/hibernate---mapping-y-relaciones
+*/
 @Entity
 @Table(name="CONTACTS")
 public class Contact {
